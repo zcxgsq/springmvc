@@ -2,12 +2,10 @@
   <library name="Maven: cglib:cglib:3.1">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.1/cglib-3.1.jar!/" />
+      <root url="jar://E:/apache-tomcat-8.0.9/lib/jsp-api.jar!/" />
+      <root url="jar://E:/apache-tomcat-8.0.9/lib/servlet-api.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.1/cglib-3.1-javadoc.jar!/" />
-    </JAVADOC>
-    <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.1/cglib-3.1-sources.jar!/" />
-    </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>
