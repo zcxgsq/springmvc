@@ -208,6 +208,12 @@
 
       <version>1.3.1</version>
     </dependency>
+    <!--亚马逊短信api-->
+    <dependency>
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-java-sdk-sns</artifactId>
+      <version>1.11.194</version>
+    </dependency>
   </dependencies>
 
   <!--profiles多环境配置-->
